@@ -1,0 +1,2 @@
+# magicHook
+A small game.
